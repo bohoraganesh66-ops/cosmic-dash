@@ -1,0 +1,17 @@
+
+{
+  "name": "cosmic-dash",
+  "version": "1.0.0",
+  "description": "Real-time multiplayer arcade game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
